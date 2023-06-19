@@ -12,13 +12,15 @@
       <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      <br />
       <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+      <br />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/Mobx-FF9955?style=flat&logo=mobx&logoColor=white" />
+      <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=storybook&logoColor=white" />
+      <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
       <br />
       <h3>📖 Studying</h3>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
       <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
       <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
       <img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=flat&logo=airbnb&logoColor=white" />
